@@ -1,0 +1,52 @@
+[
+   {
+      "nombre": "Prod1",
+      "descripcion": "Descripcion 1",
+      "codigo": "Prod1-001",
+      "foto": "urlfotoprod1.jpg",
+      "precio": 1000,
+      "stock": 10,
+      "timestamp": 1657463350158,
+      "id": 1
+   },
+   {
+      "nombre": "Prod2",
+      "descripcion": "Descripcion 2",
+      "codigo": "Prod2-002",
+      "foto": "urlfotoprod2.jpg",
+      "precio": 2000,
+      "stock": 3,
+      "timestamp": 1657463350175,
+      "id": 2
+   },
+   {
+      "nombre": "Prod3",
+      "descripcion": "Descripcion 3",
+      "codigo": "Prod3-003",
+      "foto": "urlfotoprod3.jpg",
+      "precio": 3000,
+      "stock": 8,
+      "timestamp": 1657463350210,
+      "id": 3
+   },
+   {
+      "nombre": "Prod4",
+      "descripcion": "Descripcion 4",
+      "codigo": "Prod4-004",
+      "foto": "urlfotoprod4.jpg",
+      "precio": 500,
+      "stock": 15,
+      "timestamp": 1657542764080,
+      "id": 4
+   },
+   {
+      "nombre": "Prod5",
+      "descripcion": "Descripcion 5",
+      "codigo": "Prod5-005",
+      "foto": "urlfotoprod5.jpg",
+      "precio": 500,
+      "stock": 3,
+      "timestamp": 1657542787321,
+      "id": 5
+   }
+]
